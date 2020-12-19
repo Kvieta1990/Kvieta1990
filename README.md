@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why electron has spin half?](https://www.iris2020.net/2020/12/why-electron-has-spin-half.html)
 - [Notes on building site with Jekyll locally](https://www.iris2020.net/2020/11/notes-on-building-site-with-jekyll.html)
 - [Notes on kernel density estimation (KDE)](https://www.iris2020.net/2020/11/notes-on-kernel-density-estimation-kde.html)
 - [Notes on setting up web host with Python Flask](https://www.iris2020.net/2020/11/notes-on-setting-up-web-host-with.html)
 - [Notes on RSA algorithm](https://www.iris2020.net/2020/09/notes-on-rsa-algorithm.html)
-- [为什么不能通过让海水不断降温从而获取无尽的能量？](https://www.iris2020.net/2020/07/blog-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
