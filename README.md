@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentation with docstrings in Python](https://www.iris2020.net/2021/05/documentation-with-docstrings-in-python.html)
 - [Notes on magnetism III - Various physical quantities describing magnetic field](https://www.iris2020.net/2020/12/notes-on-magnetism-iii-various-physical.html)
 - [Why do we have spin half for electrons?](https://www.iris2020.net/2020/12/why-electron-has-spin-half.html)
 - [Notes on building site with Jekyll locally](https://www.iris2020.net/2020/11/notes-on-building-site-with-jekyll.html)
 - [Notes on kernel density estimation (KDE)](https://www.iris2020.net/2020/11/notes-on-kernel-density-estimation-kde.html)
-- [Notes on setting up web host with Python Flask](https://www.iris2020.net/2020/11/notes-on-setting-up-web-host-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
