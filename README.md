@@ -2,7 +2,7 @@
 
 ### I'm a Developer and Scientist!
 
-- 🔭 Computational instrument scientist is my primary job.
+- 🔭 I am a neutron scattering scientist.
 - 🌱 Using computational tool for research is my primary interest!
 - 👯 Interesting stuff happens almost always through collaboration!
 
