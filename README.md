@@ -31,8 +31,9 @@
 ➡️ [more blog posts...](https://www.iris2020.net/)
 
 ---
-
+<!--
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kvieta1990&show_icons=true&hide_border=true" />
+-->
 
 [website]: https://www.iris2020.net/
 [twitter]: https://twitter.com/ZhangYuanpeng
