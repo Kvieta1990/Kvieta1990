@@ -21,7 +21,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lorentz correction for powder total scattering data and why we may not need it](https://www.iris2020.net/2021/09/why-or-why-not-we-need-lorentz.html)
+- [Lorentz correction for powder diffraction and why we may not need it](https://www.iris2020.net/2021/09/why-or-why-not-we-need-lorentz.html)
 - [Implementation of nano-size effect correction for modeling PDF](https://www.iris2020.net/2021/08/implementation-of-nano-size-effect.html)
 - [Coherent and incoherent scattering length of neutron](https://www.iris2020.net/2021/07/coherent-and-incoherent-scattering.html)
 - [Notes on topological physics](https://www.iris2020.net/2021/07/notes-on-topological-physics.html)
