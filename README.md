@@ -16,6 +16,11 @@
 
 <br />
 
+### Useful links
+
+[My gist](https://gist.github.com/Kvieta1990)
+<br />
+
 ---
 
 ### 📕 Latest Blog Posts
