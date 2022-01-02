@@ -22,8 +22,15 @@
 
 ### My repos
 
-[Repo for advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
+[(forked) Mantid](https://github.com/Kvieta1990/mantid)
 <br />
+[(forked) mantidtotalscattering](https://github.com/Kvieta1990/mantid_total_scattering)
+<br />
+[(forked) ADDIE](https://github.com/Kvieta1990/addie)
+<br />
+[(forked) pystog](https://github.com/Kvieta1990/pystog)
+<br />
+[Repo for advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
 
 ---
 
