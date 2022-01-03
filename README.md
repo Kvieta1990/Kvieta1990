@@ -20,7 +20,7 @@
 
 [My gist](https://gist.github.com/Kvieta1990)
 
-### My repos
+### Quick access to repos
 
 [(forked) Mantid](https://github.com/Kvieta1990/mantid)
 <br />
