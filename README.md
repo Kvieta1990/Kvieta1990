@@ -32,7 +32,7 @@
 <br />
 [(forked) finddata](https://github.com/Kvieta1990/finddata)
 <br />
-[Repo for advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
+[Advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
 
 ---
 
