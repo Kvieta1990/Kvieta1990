@@ -1,6 +1,6 @@
 ## Hi there, I'm Yuanpeng Zhang - [transfer to my Blog for more about myself][website] 👈
 
-### I'm a Developer and Scientist!
+### I'm a Scientist and Developer!
 
 - 🔭 I am a neutron scattering scientist.
 - 🌱 Using computational tool for research is my primary interest!
