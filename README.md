@@ -1,4 +1,4 @@
-## Hi there, I'm Yuanpeng Zhang - [transfer to my Blog for more about myself][website] 👋
+## Hi there, I'm Yuanpeng Zhang - [transfer to my Blog for more about myself][website] 👈
 
 ### I'm a Developer and Scientist!
 
