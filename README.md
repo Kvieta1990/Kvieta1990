@@ -18,11 +18,11 @@
 
 ### Useful links
 
-[My gist](https://gist.github.com/Kvieta1990)
-<br />
 [My ORCID](https://orcid.org/0000-0003-4224-3361)
 <br />
 [My Google Scholar](https://scholar.google.com/citations?user=NgqIgO0AAAAJ&hl=en)
+<br />
+[My gist](https://gist.github.com/Kvieta1990)
 
 ### Quick access to repos
 
