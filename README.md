@@ -28,7 +28,7 @@
 
 [(forked) Mantid](https://github.com/Kvieta1990/mantid)
 <br />
-[(forked) mantidtotalscattering](https://github.com/Kvieta1990/mantid_total_scattering)
+[(forked) mantidtotalscattering](https://github.com/Kvieta1990/mantid_total_scattering_zyp)
 <br />
 [(forked) ADDIE](https://github.com/Kvieta1990/addie)
 <br />
