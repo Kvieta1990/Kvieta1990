@@ -28,8 +28,6 @@
 
 [(forked) Mantid](https://github.com/Kvieta1990/mantid)
 <br />
-[(forked) ADDIE](https://github.com/Kvieta1990/addie)
-<br />
 [(forked) pystog](https://github.com/Kvieta1990/pystog)
 <br />
 [(forked) finddata](https://github.com/Kvieta1990/finddata)
