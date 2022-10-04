@@ -45,11 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes On Isotropy Subgroup](https://www.iris2020.net/2022/06/notes-on-isotropy-subgroup-learning.html)
-- [Set up OwnCloud server on Windows with WSL](https://www.iris2020.net/2021/12/set-up-owncloud-server-on-windows-with.html)
-- [Implementation of nano-size effect correction for modeling PDF](https://www.iris2020.net/2021/08/implementation-of-nano-size-effect.html)
-- [Coherent and incoherent scattering length of neutron](https://www.iris2020.net/2021/07/coherent-and-incoherent-scattering.html)
-- [Notes on topological physics](https://www.iris2020.net/2021/07/notes-on-topological-physics.html)
+- [Configure RMCProfile](https://kvieta1990.github.io/2020-12-01-rmc_configure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
