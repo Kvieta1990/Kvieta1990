@@ -45,6 +45,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OwnCloud Server Setup](https://kvieta1990.github.io/2022-10-04-owncloud_setup/)
+- [Size effect in RMCProfile](https://kvieta1990.github.io/2022-10-04-nano_rmc/)
+- [Notes On Isotropy Subgroup](https://kvieta1990.github.io/2022-10-04-iso_subg/)
 - [Configure RMCProfile](https://kvieta1990.github.io/2020-12-01-rmc_configure/)
 <!-- BLOG-POST-LIST:END -->
 
