@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes On Isotropy Subgroup](https://kvieta1990.github.io/2022-06-20-iso_subg/)
-- [OwnCloud Server Setup](https://kvieta1990.github.io/2021-12-21-owncloud_setup/)
-- [Size effect in RMCProfile](https://kvieta1990.github.io/2021-08-25-nano_rmc/)
-- [Derivation of neutron incoherent scattering length](https://kvieta1990.github.io/2021-07-09-coh_incoh_sl/)
-- [Notes on topological physics](https://kvieta1990.github.io/2021-07-08-top_physics/)
+- [Notes On Isotropy Subgroup](http://iris2020.net/2022-06-20-iso_subg/)
+- [OwnCloud Server Setup](http://iris2020.net/2021-12-21-owncloud_setup/)
+- [Size effect in RMCProfile](http://iris2020.net/2021-08-25-nano_rmc/)
+- [Derivation of neutron incoherent scattering length](http://iris2020.net/2021-07-09-coh_incoh_sl/)
+- [Notes on topological physics](http://iris2020.net/2021-07-08-top_physics/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
