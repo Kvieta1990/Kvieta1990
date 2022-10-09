@@ -46,10 +46,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Math equation in Jekyll](https://iris2020.net/2022-10-09-jekyll_maths/)
+- [Copy of code snippet in Jekyll](https://iris2020.net/2022-10-09-jekyll_code_snippet_copy/)
 - [Notes On Isotropy Subgroup](https://iris2020.net/2022-06-20-iso_subg/)
 - [OwnCloud Server Setup](https://iris2020.net/2021-12-21-owncloud_setup/)
 - [Size effect in RMCProfile](https://iris2020.net/2021-08-25-nano_rmc/)
-- [Derivation of neutron incoherent scattering length](https://iris2020.net/2021-07-09-coh_incoh_sl/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
