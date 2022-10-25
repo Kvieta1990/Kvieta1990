@@ -37,8 +37,6 @@
 [Advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
 <br />
 [Neutron TS tools](https://github.com/Kvieta1990/neutron_ts_tools)
-<br />
-[SULI_ADDIE_Web](https://github.com/Kvieta1990/suli_addie_web)
 
 ---
 
