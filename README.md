@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on slurm server setup](https://iris2020.net/2022-11-29-notes_slurm/)
 - [Notes on Jupyterhub server setup](https://iris2020.net/2022-11-26-notes_jupyterhub/)
 - [Notes on twin paradox](https://iris2020.net/2022-10-30-twin_paradox/)
 - [Notes on magnetism - IV](https://iris2020.net/2022-10-25-notes_mag_IV/)
 - [Image effect in web page](https://iris2020.net/2022-10-13-css_javascript_img_effect/)
-- [Math equation in Jekyll](https://iris2020.net/2022-10-09-jekyll_maths/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
