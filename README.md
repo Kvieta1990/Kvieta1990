@@ -41,6 +41,10 @@
 [Working Projs](https://github.com/Kvieta1990/Working_Proj)
 <br />
 [Working Projs Light](https://github.com/Kvieta1990/Working_Proj_LT)
+<br />
+[Private Notes](https://github.com/Kvieta1990/Notes/issues)
+<br />
+[Public Notes](https://github.com/Kvieta1990/Notes/issues)
 
 ---
 
