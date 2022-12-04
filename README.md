@@ -44,7 +44,7 @@
 <br />
 [Private Notes](https://github.com/Kvieta1990/Notes/issues)
 <br />
-[Public Notes](https://github.com/Kvieta1990/Notes/issues)
+[Public Notes](https://github.com/Kvieta1990/Notes_Public/issues)
 
 ---
 
