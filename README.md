@@ -26,14 +26,6 @@
 
 ### Quick access to repos
 
-[(forked) Mantid](https://github.com/Kvieta1990/mantid)
-<br />
-[(forked) pystog](https://github.com/Kvieta1990/pystog)
-<br />
-[(forked) finddata](https://github.com/Kvieta1990/finddata)
-<br />
-[(forked) ORNL CIS page](https://github.com/Kvieta1990/CIS)
-<br />
 [Advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
 <br />
 [Neutron TS tools](https://github.com/Kvieta1990/neutron_ts_tools)
