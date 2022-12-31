@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Slack App Setup](https://iris2020.net/2022-12-30-notes_slack_msg/)
 - [Notes on Total Commander Setups](https://iris2020.net/2022-12-11-notes_total_commander/)
 - [Notes on GSAS-II](https://iris2020.net/2022-12-11-notes_gsasii/)
 - [Notes on slurm server setup](https://iris2020.net/2022-11-29-notes_slurm/)
 - [Notes on Jupyterhub server setup](https://iris2020.net/2022-11-26-notes_jupyterhub/)
-- [Notes on twin paradox](https://iris2020.net/2022-10-30-twin_paradox/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
