@@ -26,7 +26,9 @@
 
 ### Quick access to repos
 
-[GSAS-II](https://github.com/Kvieta1990/GitDevG2)
+[GSAS-II](https://github.com/GSASII/GitDevG2)
+<br />
+[GSAS-II (forked)](https://github.com/Kvieta1990/GitDevG2)
 <br />
 [Advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
 <br />
