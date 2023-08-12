@@ -51,11 +51,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Typical Science Papers with RMCProfile](https://iris2020.net/2023-08-11-rmc_papers/)
 - [RMCProfile + LAMMPS Implementation](https://iris2020.net/2023-06-11-rmc_lammps/)
 - [Notes on using Jupyter book](https://iris2020.net/2023-04-15-notes_jbook/)
 - [Notes on difference Fourier map](https://iris2020.net/2023-04-14-notes_fdm/)
 - [Notes on implementing search in Jekyll site](https://iris2020.net/2023-03-14-notes_jekyll_search/)
-- [Notes Flask+Nginx+HTTPS setup](https://iris2020.net/2023-03-14-notes_flask_nginx_https/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
