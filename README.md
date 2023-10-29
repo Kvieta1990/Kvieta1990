@@ -57,11 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Find out symmetry from RMC fitted supercell](https://iris2020.net/2023-10-29-findsym/)
 - [Anaconda token setup for GitHub action](https://iris2020.net/2023-10-12-token_github_anaconda/)
 - [Size &amp; strain effect and preferred orientation in diffraction](https://iris2020.net/2023-10-09-diff_size_strain/)
 - [Rustdesk server setup](https://iris2020.net/2023-09-10-rustdesk_server/)
 - [Thermal background in pair distrubtion function &lpar;PDF&rpar;](https://iris2020.net/2023-09-10-pdf_thermal_bkg/)
-- [Set up a self-hosted web server on Oracle VPS](https://iris2020.net/2023-09-08-docker_nginx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
