@@ -57,11 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up YOURLS on VPS with docker](https://iris2020.net/2024-01-15-yourls_docker/)
 - [Dockerize the ADDIE service](https://iris2020.net/2024-01-13-dockerize_addie/)
 - [Setting up services on VPS using docker](https://iris2020.net/2023-12-25-vps_docker_services/)
 - [Find out symmetry from RMC fitted supercell](https://iris2020.net/2023-10-29-findsym/)
 - [Anaconda token setup for GitHub action](https://iris2020.net/2023-10-12-token_github_anaconda/)
-- [Size &amp; strain effect and preferred orientation in diffraction](https://iris2020.net/2023-10-09-diff_size_strain/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
