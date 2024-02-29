@@ -34,6 +34,8 @@
 <br />
 [GSAS-II (forked)](https://github.com/Kvieta1990/GitDevG2)
 <br />
+[GSAS-II - Dev](https://github.com/Kvieta1990/gsasii_dev)
+<br />
 [Advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
 <br />
 [Neutron TS tools](https://github.com/Kvieta1990/neutron_ts_tools)
