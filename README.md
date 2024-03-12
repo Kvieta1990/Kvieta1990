@@ -34,7 +34,9 @@
 <br />
 [GSAS-II (forked)](https://github.com/Kvieta1990/GitDevG2)
 <br />
-[GSAS-II - Dev](https://github.com/Kvieta1990/gsasii_dev)
+[GSAS-II (ZYP Private)](https://github.com/Kvieta1990/gsasii_zyp)
+<br />
+[GSAS-II - Utils - Dev](https://github.com/Kvieta1990/gsasii_dev)
 <br />
 [Advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
 <br />
