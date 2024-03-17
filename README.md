@@ -63,11 +63,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon AWS S3 setup](https://iris2020.net/2024-03-16-aws_s3_notes/)
 - [Notes on using VSCode](https://iris2020.net/2024-03-11-vscode_python_debugger/)
 - [Mouse gesture on Mac](https://iris2020.net/2024-03-11-mac_mouse_gesture/)
 - [Set up a Flarum forum on VPS](https://iris2020.net/2024-03-07-flarum_setup/)
 - [Construct lattice vectors from lattice parameters](https://iris2020.net/2024-03-04-latt_params_to_latt_vecs/)
-- [Photoshop基于图层生成动画](https://iris2020.net/2024-02-25-ps_make_animation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
