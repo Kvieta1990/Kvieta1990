@@ -36,8 +36,6 @@
 <br />
 [GSAS-II - Buildtools](https://github.com/AdvancedPhotonSource/GSAS-II-buildtools)
 <br />
-[GSAS-II (ZYP Private)](https://github.com/Kvieta1990/gsasii_zyp)
-<br />
 [GSAS-II - Utils - Dev](https://github.com/Kvieta1990/gsasii_dev)
 <br />
 [Advanced RMC tools](https://github.com/Kvieta1990/rmc_adv_tools)
