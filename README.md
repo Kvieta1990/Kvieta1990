@@ -30,9 +30,11 @@
 
 ### Quick access to repos
 
-[GSAS-II](https://github.com/GSASII/GitDevG2)
+[GSAS-II - Main](https://github.com/AdvancedPhotonSource/GSAS-II)
 <br />
-[GSAS-II (forked)](https://github.com/Kvieta1990/GitDevG2)
+[GSAS-II - Tutorial](https://github.com/AdvancedPhotonSource/GSAS-II-tutorials)
+<br />
+[GSAS-II - Buildtools](https://github.com/AdvancedPhotonSource/GSAS-II-buildtools)
 <br />
 [GSAS-II (ZYP Private)](https://github.com/Kvieta1990/gsasii_zyp)
 <br />
