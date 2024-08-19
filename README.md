@@ -65,11 +65,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use SSH key with GitLab](https://iris2020.net/2024-08-19-gitlab_ssh/)
 - [Stacking Faults](https://iris2020.net/2024-08-15-stacking_fault/)
 - [Preferred Orientation and Texture](https://iris2020.net/2024-08-03-preferred_orientation_texture/)
 - [Notes and Tips for using Docker](https://iris2020.net/2024-07-16-docker_tips/)
 - [Dirac Equation](https://iris2020.net/2024-05-25-dirac_equation/)
-- [Amazon AWS S3 setup](https://iris2020.net/2024-03-16-aws_s3_notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
