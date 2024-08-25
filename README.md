@@ -65,11 +65,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAQs about Mantid &amp;ndash; Yuanpeng&#39;s Collection](https://iris2020.net/2024-08-24-mantid_faq/)
 - [Van Hove Function](https://iris2020.net/2024-08-22-van_hove_func/)
 - [Use SSH key with GitLab](https://iris2020.net/2024-08-19-gitlab_ssh/)
 - [Stacking Faults](https://iris2020.net/2024-08-15-stacking_fault/)
 - [Preferred Orientation and Texture](https://iris2020.net/2024-08-03-preferred_orientation_texture/)
-- [Notes and Tips for using Docker](https://iris2020.net/2024-07-16-docker_tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
