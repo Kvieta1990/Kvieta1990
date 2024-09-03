@@ -1,4 +1,4 @@
-## Hi there, I'm Yuanpeng Zhang - [transfer to my homepage][website] 👈
+## Hi there, I'm Yuanpeng Zhang -- [transfer to my homepage][website] 👈
 
 ### I'm a Scientist and Developer!
 
@@ -45,8 +45,6 @@
 [Neutron TS tools](https://github.com/Kvieta1990/neutron_ts_tools)
 <br />
 [Working Projs](https://github.com/Kvieta1990/Working_Proj)
-<br />
-[Working Projs Light](https://github.com/Kvieta1990/Working_Proj_LT)
 <br />
 [Private Notes](https://github.com/Kvieta1990/Notes/issues)
 <br />
