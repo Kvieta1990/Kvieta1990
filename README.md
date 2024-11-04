@@ -63,11 +63,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up an automated workflow for collecting RSS feeds and send to Gmail](https://iris2020.net/2024-11-04-n8n_rss_gmail/)
 - [Set up an automated workflow for Notion &amp; Slack connection with n8n](https://iris2020.net/2024-11-03-n8n_notion_slack_workflow/)
 - [Tips on Wordpress Setup](https://iris2020.net/2024-09-03-wordpress_tips/)
 - [Output of the Reduced Time-of-Flight Powder Diffraction Bragg Data](https://iris2020.net/2024-08-30-tof_binning/)
 - [FAQs about Mantid &amp;ndash; Yuanpeng&#39;s Collection](https://iris2020.net/2024-08-24-mantid_faq/)
-- [Van Hove Function](https://iris2020.net/2024-08-22-van_hove_func/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
