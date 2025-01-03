@@ -68,11 +68,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Description of Magnetic Structure with Propogation Vector](https://iris2020.net/2025-01-03-prop_vector/)
 - [A brief summary of the early superconductivity development](https://iris2020.net/2024-12-16-superconductivity_summary/)
 - [Set up workflows for bidirectional connection between NocoDB and Slack](https://iris2020.net/2024-11-07-n8n_slack_nocodb/)
 - [Set up an automated workflow for collecting RSS feeds and send to Gmail](https://iris2020.net/2024-11-04-n8n_rss_gmail/)
 - [Set up an automated workflow for Notion &amp; Slack connection with n8n](https://iris2020.net/2024-11-03-n8n_notion_slack_workflow/)
-- [Tips on Wordpress Setup](https://iris2020.net/2024-09-03-wordpress_tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
