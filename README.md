@@ -70,11 +70,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Block the annoying ads on slashdot](https://iris2020.net/2025-01-20-slashdot_block_ads/)
 - [Development environment setup for RMCProfile on Windows](https://iris2020.net/2025-01-17-rmcprofile_dev_env_win/)
 - [Description of Magnetic Structure with Propogation Vector](https://iris2020.net/2025-01-03-prop_vector/)
 - [A brief summary of the early superconductivity development](https://iris2020.net/2024-12-16-superconductivity_summary/)
 - [Set up workflows for bidirectional connection between NocoDB and Slack](https://iris2020.net/2024-11-07-n8n_slack_nocodb/)
-- [Set up an automated workflow for collecting RSS feeds and send to Gmail](https://iris2020.net/2024-11-04-n8n_rss_gmail/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
