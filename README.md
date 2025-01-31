@@ -70,11 +70,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use local build of Mantid with Python script](https://iris2020.net/2025-01-31-mantid_local_python/)
 - [Setting up 1panel with Cloudflare](https://iris2020.net/2025-01-30-1panel_cloudflare/)
 - [Notes on the development environment setup for RMCProfile](https://iris2020.net/2025-01-28-rmcprofile_dev_env_gen/)
 - [Block the annoying ads on slashdot](https://iris2020.net/2025-01-20-slashdot_block_ads/)
 - [Development environment setup for RMCProfile on Windows](https://iris2020.net/2025-01-17-rmcprofile_dev_env_win/)
-- [Description of Magnetic Structure with Propogation Vector](https://iris2020.net/2025-01-03-prop_vector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
