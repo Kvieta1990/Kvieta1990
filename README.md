@@ -31,7 +31,11 @@
 <br />
 [My Google Scholar](https://scholar.google.com/citations?user=NgqIgO0AAAAJ&hl=en)
 <br />
-[My gist](https://gist.github.com/Kvieta1990)
+[Powder Diffraction Software Roadmap](https://github.com/users/Kvieta1990/projects/6)
+<br />
+[My gist on GitHub](https://gist.github.com/Kvieta1990)
+<br />
+[Self-hosted gist](https://pf.iris-home.net)
 
 ### Quick access to repos
 
