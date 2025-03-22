@@ -22,6 +22,8 @@
 [Zhaoolee INS](https://github.com/zhaoolee/ins)
 <br />
 [Bojie Site](https://bojie.site)
+<br />
+[Reddit AI Trends](https://github.com/liyedanpdx/reddit-ai-trends/tree/main/reports)
 
 ### Useful links
 
