@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Local Development of GSAS-II](https://iris2020.net/2025-03-18-gsasii_dev/)
+- [Local Development of GSAS-II -- New Instructions](https://iris2020.net/2025-04-21-gsasii_dev_new/)
+- [Local Development of GSAS-II -- Deprecated Instructions](https://iris2020.net/2025-03-18-gsasii_dev/)
 - [Config, Tips and Tricks for Different Operating Systems](https://iris2020.net/2025-03-16-os_configs/)
 - [Dify Server Maintenance](https://iris2020.net/2025-03-16-dify_config/)
 - [Sample and Container geometry for absorption correction](https://iris2020.net/2025-02-12-abs_geo/)
-- [Use local build of Mantid with Python script](https://iris2020.net/2025-01-31-mantid_local_python/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
