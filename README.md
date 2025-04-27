@@ -26,6 +26,8 @@
 [Yinfeng Site](https://yinfeng.blog/)
 <br />
 [Reddit AI Trends](https://github.com/liyedanpdx/reddit-ai-trends/tree/main/reports)
+<br />
+[HackerNews](https://news.ycombinator.com/)
 
 ### Useful links
 
