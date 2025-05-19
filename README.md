@@ -28,6 +28,10 @@
 [Reddit AI Trends](https://github.com/liyedanpdx/reddit-ai-trends/tree/main/reports)
 <br />
 [HackerNews](https://news.ycombinator.com/)
+<br />
+[Fabulous Homepage](https://simonaking.com/)
+<br />
+[How To Make a Fabulous Homepage](https://github.com/SimonAKing/HomePage)
 
 ### Useful links
 
