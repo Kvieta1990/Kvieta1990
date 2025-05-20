@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Time-Based One-Time Password Generation Programmingly](https://iris2020.net/2025-05-20-totp_code_gen/)
 - [Local Development Environment Setup for NOVA](https://iris2020.net/2025-05-09-nova_dev/)
 - [Configure a Local Mantid Live Reduction Service](https://iris2020.net/2025-04-21-mantid_livered/)
 - [Local Development of GSAS-II -- New Instructions](https://iris2020.net/2025-04-21-gsasii_dev_new/)
 - [Local Development of GSAS-II -- Deprecated Instructions](https://iris2020.net/2025-03-18-gsasii_dev/)
-- [Config, Tips and Tricks for Different Operating Systems](https://iris2020.net/2025-03-16-os_configs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
