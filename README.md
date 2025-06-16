@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows in Docker](https://iris2020.net/2025-06-15-windows_in_docker/)
 - [Time-Based One-Time Password Generation Programmingly](https://iris2020.net/2025-05-20-totp_code_gen/)
 - [Local Development Environment Setup for NOVA](https://iris2020.net/2025-05-09-nova_dev/)
 - [Configure a Local Mantid Live Reduction Service](https://iris2020.net/2025-04-21-mantid_livered/)
 - [Local Development of GSAS-II -- New Instructions](https://iris2020.net/2025-04-21-gsasii_dev_new/)
-- [Local Development of GSAS-II -- Deprecated Instructions](https://iris2020.net/2025-03-18-gsasii_dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
