@@ -53,11 +53,7 @@
 
 [GSAS-II - Main](https://github.com/AdvancedPhotonSource/GSAS-II)
 <br />
-[GSAS-II - Main - Forked](https://github.com/Kvieta1990/GSAS-II)
-<br />
 [GSAS-II - Tutorial](https://github.com/AdvancedPhotonSource/GSAS-II-tutorials)
-<br />
-[GSAS-II - Tutorial (forked)](https://github.com/Kvieta1990/GSAS-II-tutorials)
 <br />
 [GSAS-II - Buildtools](https://github.com/AdvancedPhotonSource/GSAS-II-buildtools)
 <br />
