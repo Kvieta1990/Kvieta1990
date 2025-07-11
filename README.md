@@ -84,11 +84,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publish Apps for MacOS](https://iris2020.net/2025-07-11-mac_app_distribution/)
 - [Technical Notes on Remote Connection with Thinlinc, Windows RDP and SSH](https://iris2020.net/2025-06-26-remote_connect/)
 - [Use Netbird for Setting up a Peer-to-Peer Private Network](https://iris2020.net/2025-06-23-netbird_notes/)
 - [Notes on Selection Rule for Transition between Energy Levels](https://iris2020.net/2025-06-15-selection_rule/)
 - [Windows in Docker](https://iris2020.net/2025-06-14-windows_in_docker/)
-- [Time-Based One-Time Password Generation Programmingly](https://iris2020.net/2025-05-20-totp_code_gen/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
