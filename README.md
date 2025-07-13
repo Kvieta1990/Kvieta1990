@@ -84,7 +84,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Publish Apps for MacOS](https://iris2020.net/2025-07-11-mac_app_distribution/)
+- [Publish Apps on MacOS](https://iris2020.net/2025-07-11-mac_app_distribution/)
 - [Technical Notes on Remote Connection with Thinlinc, Windows RDP and SSH](https://iris2020.net/2025-06-26-remote_connect/)
 - [Use Netbird for Setting up a Peer-to-Peer Private Network](https://iris2020.net/2025-06-23-netbird_notes/)
 - [Notes on Selection Rule for Transition between Energy Levels](https://iris2020.net/2025-06-15-selection_rule/)
