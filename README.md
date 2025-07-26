@@ -77,6 +77,8 @@
 <br />
 [Tools Collection](https://github.com/Kvieta1990/tools_collection)
 <br />
+[Learning Notes Collection](https://github.com/Kvieta1990/Iris)
+<br />
 [Documentation with MkDocs](https://github.com/Kvieta1990/mkdocs)
 
 ---
