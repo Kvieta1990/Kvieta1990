@@ -73,6 +73,8 @@
 <br />
 [Neutrons Data Workflow](https://github.com/neutrons/data_workflow)
 <br />
+[Neutrons LLM](https://github.com/Kvieta1990/LLM)
+<br />
 [Tools Collection](https://github.com/Kvieta1990/tools_collection)
 <br />
 [Learning Notes Collection](https://github.com/Kvieta1990/Iris)
