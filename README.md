@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instrument Geometry in Mantid Framework](https://iris2020.net/2025-10-17-mantid_geometry/)
 - [Running GSAS-II Scriptable Refinement](https://iris2020.net/2025-08-25-gsasii_scriptable/)
 - [Set up a Budget VPS on CloudCone](https://iris2020.net/2025-08-18-cloudcone_setup/)
 - [Installation of GSAS-II on Linux](https://iris2020.net/2025-08-01-gsasii_on_linux/)
 - [Publish Apps on MacOS](https://iris2020.net/2025-07-11-mac_app_distribution/)
-- [Technical Notes on Remote Connection with Thinlinc, Windows RDP and SSH](https://iris2020.net/2025-06-26-remote_connect/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
