@@ -19,7 +19,7 @@
 ### Following
 [RuanYF Weekly](https://github.com/ruanyf/weekly/tree/master)
 <br />
-[Simon Willison](https://simonw.substack.com/)
+[Simon Willison](https://simonwillison.net/)
 <br />
 [Zhaoolee INS](https://github.com/zhaoolee/ins)
 <br />
