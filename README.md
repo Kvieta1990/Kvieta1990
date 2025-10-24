@@ -19,6 +19,8 @@
 ### Following
 [RuanYF Weekly](https://github.com/ruanyf/weekly/tree/master)
 <br />
+[Simon Willison](https://simonw.substack.com/)
+<br />
 [Zhaoolee INS](https://github.com/zhaoolee/ins)
 <br />
 [Yinfeng Site](https://yinfeng.blog/)
