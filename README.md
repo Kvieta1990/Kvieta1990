@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bond Valence Energy Landscape Calculation with the BondStr Program in Fullprof Suite](https://iris2020.net/2025-10-26-bondstr_bvs/)
 - [Instrument Geometry in Mantid Framework](https://iris2020.net/2025-10-17-mantid_geometry/)
 - [Running GSAS-II Scriptable Refinement](https://iris2020.net/2025-08-25-gsasii_scriptable/)
 - [Set up a Budget VPS on CloudCone](https://iris2020.net/2025-08-18-cloudcone_setup/)
 - [Installation of GSAS-II on Linux](https://iris2020.net/2025-08-01-gsasii_on_linux/)
-- [Publish Apps on MacOS](https://iris2020.net/2025-07-11-mac_app_distribution/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
