@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [About the Metropolis Monte Carlo Method](https://iris2020.net/2025-11-30-metropolis_monte_carlo/)
 - [Set up n8n and postgres for Retrieval Augmented Generation &lpar;RAG&rpar; using the local vector database](https://iris2020.net/2025-11-19-n8n_postgres_embed/)
 - [Bond Valence Energy Landscape Calculation with the BondStr Program in Fullprof Suite](https://iris2020.net/2025-10-26-bondstr_bvs/)
 - [Instrument Geometry in Mantid Framework](https://iris2020.net/2025-10-17-mantid_geometry/)
 - [Running GSAS-II Scriptable Refinement](https://iris2020.net/2025-08-25-gsasii_scriptable/)
-- [Set up a Budget VPS on CloudCone](https://iris2020.net/2025-08-18-cloudcone_setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
