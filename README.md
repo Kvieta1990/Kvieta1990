@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remotely Wake up MacOS from Sleeping](https://iris2020.net/2025-12-12-wakeup_macos/)
 - [Some Follow-up Notes on Preferred Orientation and Texture](https://iris2020.net/2025-12-11-preferred_orientation_texture_followup/)
 - [Einstein and Debye Model for Specific Heat](https://iris2020.net/2025-12-04-einstein_debye_model/)
 - [About the Metropolis Monte Carlo Method](https://iris2020.net/2025-11-30-metropolis_monte_carlo/)
 - [Set up n8n and postgres for Retrieval Augmented Generation &lpar;RAG&rpar; using the local vector database](https://iris2020.net/2025-11-19-n8n_postgres_embed/)
-- [Bond Valence Energy Landscape Calculation with the BondStr Program in Fullprof Suite](https://iris2020.net/2025-10-26-bondstr_bvs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
