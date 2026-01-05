@@ -88,11 +88,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real Spherical Harmonics Visualization](https://iris2020.net/2026-01-05-spherical_harmonics_viz/)
 - [Goldstone Mode and Spontaneous Symmetry Broken](https://iris2020.net/2026-01-01-goldstone_mode_symmetry/)
 - [Remotely Wake up MacOS from Sleeping](https://iris2020.net/2025-12-12-wakeup_macos/)
 - [Some Follow-up Notes on Preferred Orientation and Texture](https://iris2020.net/2025-12-11-preferred_orientation_texture_followup/)
 - [Einstein and Debye Model for Specific Heat](https://iris2020.net/2025-12-04-einstein_debye_model/)
-- [About the Metropolis Monte Carlo Method](https://iris2020.net/2025-11-30-metropolis_monte_carlo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
