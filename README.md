@@ -19,6 +19,8 @@
 ### Following
 [RuanYF Weekly](https://github.com/ruanyf/weekly/tree/master)
 <br />
+[TW93 Weekly](https://github.com/tw93/weekly)
+<br />
 [WMYSKXZ](https://wmyskxz.cn/)
 <br />
 [Simon Willison](https://simonwillison.net/)
