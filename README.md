@@ -92,11 +92,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw Installation &amp; Configuration on Linux](https://iris2020.net/2026-03-01-openclaw_install_config/)
 - [Real Spherical Harmonics Visualization](https://iris2020.net/2026-01-05-spherical_harmonics_viz/)
 - [Goldstone Mode and Spontaneous Symmetry Broken](https://iris2020.net/2026-01-01-goldstone_mode_symmetry/)
 - [Remotely Wake up MacOS from Sleeping](https://iris2020.net/2025-12-12-wakeup_macos/)
 - [Some Follow-up Notes on Preferred Orientation and Texture](https://iris2020.net/2025-12-11-preferred_orientation_texture_followup/)
-- [Einstein and Debye Model for Specific Heat](https://iris2020.net/2025-12-04-einstein_debye_model/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
