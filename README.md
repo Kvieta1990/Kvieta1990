@@ -92,11 +92,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strands Agent Episode-1 — Setup](https://iris2020.net/2026-04-05-strand_agent/)
 - [Set up a File Server on Windows](https://iris2020.net/2026-04-03-win_fserver/)
 - [Some Technical Notes on n8n setup](https://iris2020.net/2026-03-19-n8n_technical/)
 - [OpenClaw Installation &amp; Configuration on Linux](https://iris2020.net/2026-03-01-openclaw_install_config/)
 - [Real Spherical Harmonics Visualization](https://iris2020.net/2026-01-05-spherical_harmonics_viz/)
-- [Goldstone Mode and Spontaneous Symmetry Broken](https://iris2020.net/2026-01-01-goldstone_mode_symmetry/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
