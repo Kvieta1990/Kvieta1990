@@ -52,6 +52,8 @@
 [My gist on GitHub](https://gist.github.com/Kvieta1990)
 <br />
 [Self-hosted gist](https://pf.iris-home.net)
+<br />
+[My Second Brain](https://github.com/Kvieta1990/snd_brain)
 
 ### Quick access to repos
 
