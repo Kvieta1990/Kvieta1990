@@ -55,6 +55,14 @@
 <br />
 [My Second Brain](https://github.com/Kvieta1990/snd_brain)
 
+### Neutron Orgs
+
+[ORNL Neutrons](https://github.com/neutrons)
+<br />
+[ORNL Neutrons-AI](https://github.com/neutrons-ai)
+<br />
+[ORNL PDAgent](https://github.com/neutrons-ai/pdagent)
+
 ### Quick access to repos
 
 [GSAS-II - Main](https://github.com/AdvancedPhotonSource/GSAS-II)
