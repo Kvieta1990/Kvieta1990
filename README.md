@@ -94,11 +94,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HP ZGX Nano AI Station Setup](https://iris2020.net/2026-05-17-zgx_sparks/)
-- [VNC and noVNC for remote connection](https://iris2020.net/2026-04-18-vnc_novnc/)
 - [Strands Agent Episode-1 — Setup](https://iris2020.net/2026-04-05-strand_agent/)
 - [Set up a File Server on Windows](https://iris2020.net/2026-04-03-win_fserver/)
-- [Some Technical Notes on n8n setup](https://iris2020.net/2026-03-19-n8n_technical/)
+- [Real Spherical Harmonics Visualization](https://iris2020.net/2026-01-05-spherical_harmonics_viz/)
+- [Goldstone Mode and Spontaneous Symmetry Broken](https://iris2020.net/2026-01-01-goldstone_mode_symmetry/)
+- [Some Follow-up Notes on Preferred Orientation and Texture](https://iris2020.net/2025-12-11-preferred_orientation_texture_followup/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
