@@ -47,8 +47,6 @@
 <br />
 [My Google Scholar](https://scholar.google.com/citations?user=NgqIgO0AAAAJ&hl=en)
 <br />
-[Powder Diffraction Software Roadmap](https://github.com/users/Kvieta1990/projects/6)
-<br />
 [My gist on GitHub](https://gist.github.com/Kvieta1990)
 <br />
 [Self-hosted gist](https://pf.iris-home.net)
@@ -74,12 +72,6 @@
 [Private Notes](https://github.com/Kvieta1990/Notes/issues)
 <br />
 [Public Notes](https://github.com/Kvieta1990/Notes_Public/issues)
-<br />
-[Powder Diffraction at ORNL](https://github.com/Kvieta1990/ornl-pd)
-<br />
-[Powder Diffraction Software Updates at ORNL](https://github.com/Kvieta1990/updates)
-<br />
-[Neutrons Data Workflow](https://github.com/neutrons/data_workflow)
 <br />
 [Neutrons LLM](https://github.com/Kvieta1990/LLM)
 <br />
