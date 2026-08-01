@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Markov Chain Monte Carlo -- An Introduction](https://iris2020.net/2026-07-31-markov_chain_monte_carlo/)
 - [Configuration Uniqueness in Reverse Monte Carlo Modeling and Potential Solution with Kullback-Liebler Divergence](https://iris2020.net/2026-07-30-rmc_sol_uniqueness/)
 - [About Gradient Update for the Cross Entropy Loss](https://iris2020.net/2026-07-29-cross_entropy_loss_gradient/)
 - [Explanation About Subnet Mask with Some Simple Examples](https://iris2020.net/2026-07-23-subnet/)
 - [Strands Agent Episode-1 — Setup](https://iris2020.net/2026-04-05-strand_agent/)
-- [Set up a File Server on Windows](https://iris2020.net/2026-04-03-win_fserver/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
