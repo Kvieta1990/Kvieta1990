@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gibbs Sampling](https://iris2020.net/2026-08-13-gibbs_sampling/)
 - [Learning Notes on Variational Autoencoders](https://iris2020.net/2026-08-11-variational_autoencoder/)
 - [Learning Notes on Denoising Diffusion Probablistic Model](https://iris2020.net/2026-08-09-diffusion_algorithm/)
 - [Sampling Algorithms](https://iris2020.net/2026-08-02-sampling_algorithms/)
 - [Markov Chain Monte Carlo -- An Introduction](https://iris2020.net/2026-07-31-markov_chain_monte_carlo/)
-- [Configuration Uniqueness in Reverse Monte Carlo Modeling and Potential Solution with Kullback-Liebler Divergence](https://iris2020.net/2026-07-30-rmc_sol_uniqueness/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
