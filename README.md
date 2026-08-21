@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bayesian Optimization](https://iris2020.net/2026-08-19-gp_bo/)
 - [Langevin Dynamics -- From Molecular Thermostats to Diffusion Models &lpar;Part-4&rpar;](https://iris2020.net/2026-08-17-langevin_dynamics_4/)
 - [Langevin Dynamics -- From Molecular Thermostats to Diffusion Models &lpar;Part-3&rpar;](https://iris2020.net/2026-08-16-langevin_dynamics_3/)
 - [Langevin Dynamics -- From Molecular Thermostats to Diffusion Models &lpar;Part-2&rpar;](https://iris2020.net/2026-08-15-langevin_dynamics_2/)
 - [Langevin Dynamics -- From Molecular Thermostats to Diffusion Models &lpar;Part-1&rpar;](https://iris2020.net/2026-08-13-langevin_dynamics_1/)
-- [Gibbs Sampling](https://iris2020.net/2026-08-13-gibbs_sampling/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
