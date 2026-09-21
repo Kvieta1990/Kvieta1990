@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Piece of Note on Refraction and Dispersion](https://iris2020.net/2026-09-20-dispersion/)
 - [Some &lpar;Random&rpar; Notes On crystallography &lpar;Part-2&rpar;](https://iris2020.net/2026-09-18-crystallography_r2/)
 - [Some &lpar;Random&rpar; Notes On crystallography &lpar;Part-1&rpar;](https://iris2020.net/2026-09-17-crystallography_r1/)
 - [Some Useful Abstract Algebra](https://iris2020.net/2026-09-15-abstract_algebra/)
 - [Enantiomorphic Space Groups](https://iris2020.net/2026-09-14-enantiomorph/)
-- [Optimization Methods](https://iris2020.net/2026-09-01-optimization/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
