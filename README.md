@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fermi Level and Chemical Potential](https://iris2020.net/2026-09-24-fermi_dirac/)
 - [Berry Physics and Anomalous Hall Effect](https://iris2020.net/2026-09-24-berry_ahe/)
 - [Bloch&#39;s Theorem and Band Structure](https://iris2020.net/2026-09-21-bloch_band/)
 - [A Piece of Note on Refraction and Dispersion](https://iris2020.net/2026-09-20-dispersion/)
 - [Some &lpar;Random&rpar; Notes On crystallography &lpar;Part-2&rpar;](https://iris2020.net/2026-09-18-crystallography_r2/)
-- [Some &lpar;Random&rpar; Notes On crystallography &lpar;Part-1&rpar;](https://iris2020.net/2026-09-17-crystallography_r1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
