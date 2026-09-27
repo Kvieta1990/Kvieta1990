@@ -86,11 +86,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Notes on Quantum Hall Effect](https://iris2020.net/2026-09-26-notes_qhe/)
 - [Systematic Absences &lpar;Crystallography&rpar;](https://iris2020.net/2026-09-24-systematic_absences/)
 - [Fermi Level and Chemical Potential](https://iris2020.net/2026-09-24-fermi_dirac/)
 - [Berry Physics and Anomalous Hall Effect](https://iris2020.net/2026-09-24-berry_ahe/)
 - [Bloch&#39;s Theorem and Band Structure](https://iris2020.net/2026-09-21-bloch_band/)
-- [A Piece of Note on Refraction and Dispersion](https://iris2020.net/2026-09-20-dispersion/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.iris2020.net/)
